@@ -1,453 +1,702 @@
 #EXTM3U
-#EXTINF:0,Al Quran ul Kareem
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/English%20Club%20TV.stream/chunklist_w2021618960.m3u8
-#EXTINF:0,Peace tv
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/peace_tv.stream/chunklist_w471678170.m3u8
-#EXTINF:0,Madani Channel
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Madani-Channel.stream/chunklist_w657740348.m3u8
-#EXTINF:0,Bravo Islamic
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Bravo1.stream/chunklist_w874178523.m3u8
-#EXTINF:0,ARYQTV
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/ARYQTV.stream/chunklist_w1125736920.m3u8
-#EXTINF:0,CNN
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/CNN.stream/chunklist_w646363972.m3u8
-#EXTINF:0,Al-Jazeera
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/AlJazeera.stream/media_w1700630168_5079.ts
-#EXTINF:0,Al-Araybia
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Al%20Araybia.stream/chunklist_w1449638852.m3u8
-#EXTINF:0,92 News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/92-news.stream/chunklist_w1247272954.m3u8
-#EXTINF:0,PNN News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/13%20Ulica%20HD.stream/chunklist_w1261684100.m3u8
-#EXTINF:0,GEO News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Geo-news.stream/chunklist_w620127919.m3u8
-#EXTINF:0,SAMAA News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Samaa.stream/chunklist_w1909241609.m3u8
-#EXTINF:0,Dunya News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/DunyaNews.stream/chunklist_w2142351624.m3u8
-#EXTINF:0,ARY-News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Ary-news.stream/chunklist_w155719780.m3u8
-#EXTINF:0,DAWN News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Dawn-News-480p.stream/chunklist_w689304202.m3u8
-#EXTINF:0,Express News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/express.stream/chunklist_w1547251886.m3u8
-#EXTINF:0,Aaj News
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/AajNews.stream/chunklist_w397632551.m3u8
-#EXTINF:0,TEN Sports
-#EXTGRP:Sport
-http://10.209.126.1:1935/live/Ten-Sports-480p.stream/chunklist_w791932716.m3u8
-#EXTINF:0,GEO Super
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Geo-super.stream/chunklist_w1354471762.m3u8
-#EXTINF:0,A Super
-#EXTGRP:Sport
-http://10.209.126.1:1935/live/A-sport-new.stream/chunklist_w583672329.m3u8
-#EXTINF:0,PTV Sports
-#EXTGRP:Sport
-http://10.209.126.1:1935/live/A-sport-new.stream/chunklist_w583672329.m3u8
-http://10.209.126.1:1935/live/PTV-Sports-480p.stream/chunklist_w1409895322.m3u8
-#EXTINF:0,BEIN SPORTS
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/bein_sports.stream/chunklist_w1083371497.m3u8
-#EXTINF:0,BEIN SPORTS HD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/BoomerangHD.stream/chunklist_w212001365.m3u8
-#EXTINF:0,BEIN SPORTS 5
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/trace%20sports%20HD.stream/chunklist_w1992588036.m3u8
-#EXTINF:0,BEIN SPORTS 2
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/bein-sports-13.stream/chunklist_w2114373066.m3u8
-#EXTINF:0,BEIN SPORTS 1
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/ZooMooHD.stream/chunklist_w1519485831.m3u8
-#EXTINF:0,BEIN SPORTS 11
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/chunklist_w1278954425.m3u8
-#EXTINF:0,EURO SPORTS 1
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Euro-sport-1-HD.stream/chunklist_w2064935033.m3u8
-#EXTINF:0,EURO SPORTS 2
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Eurosport-2-HD.stream/chunklist_w257499059.m3u8
-#EXTINF:0,AD SPORTS 2
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/HBO.stream/chunklist_w665410602.m3u8
-#EXTINF:0,AD SPORTS 3
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Fast%20and%20Funbox.stream/chunklist_w956725732.m3u8
-#EXTINF:0,AD SPORTS 4
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Familymovieshd.stream/chunklist_w1582145953.m3u8
-#EXTINF:0,AL KHASS
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/chunklist_w434315496.m3u8
-#EXTINF:0,NBC GOLF
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/AMCHD.stream/chunklist_w898036727.m3u8
+---------------------------------------***Islamic***----------------------------------------------------------------
+#EXTINF:-1,PAK: PAIGHAM TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844735
+#EXTINF:-1,PAK: ARY QTV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844734
+#EXTINF:-1,PAK: ISLAM TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844733
+#EXTINF:-1,PAK: MADNI CHANNEL
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844732
+#EXTINF:-1,PAK: ZINDGAI TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844731
 
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0,CARTOON NETWORK
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Cartoon-network.stream/chunklist_w2023671657.m3u8
-#EXTINF:0,Disney JR
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/disney%20junior%20hd.stream/chunklist_w2114824788.m3u8
-#EXTINF:0,BABY TV
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Baby-TV.stream/chunklist_w1505274775.m3u8
-#EXTINF:0,NickJr
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/NickJr.stream/chunklist_w735294066.m3u8
-#EXTINF:0,Minika
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/minika.stream/chunklist_w719506995.m3u8
-#EXTINF:0,Nickelodeon
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Nickelodeon.stream/chunklist_w191523142.m3u8
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-------------------------------/////////////////////////////////////
-#EXTINF:-1 tvg-id="MarvelHQ.us" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QuDem5OD.png" group-title="",Marvel HQ (1080p)
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+-----------------------------------***News***-----------------------------------------------------------------------
+#EXTINF:-1,PAK: BOL NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844778
+#EXTINF:-1,PAK: GEO TEZZ
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844777
+#EXTINF:-1,PAK: GEO NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844776
+#EXTINF:-1,PAK: CHANNEL 24
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844775
+#EXTINF:-1,PAK: CAPITAL TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844774
+#EXTINF:-1,PAK: HUM NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844717
+#EXTINF:-1,PAK: DAWN NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844716
+#EXTINF:-1,PAK: SAMAA NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844773
+#EXTINF:-1,PAK: JAAG NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844772
+#EXTINF:-1,PAK: EXPRESS NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844771
+#EXTINF:-1,PAK: EXPRESS NEWS 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844770
+#EXTINF:-1,PAK: GNN HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844714
+#EXTINF:-1,PAK: DUNYA NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844713
+#EXTINF:-1,PAK: NEWS 92
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844712
+#EXTINF:-1,PAK: ABBTAK
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844769
+#EXTINF:-1,PAK: ARY NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844768
+#EXTINF:-1,PAK: NEWS ONE
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844767
+#EXTINF:-1,PAK WASAB TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844766
+#EXTINF:-1,PAK: WAQAT NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844765
+#EXTINF:-1,PAK: AAJ NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844764
+#EXTINF:-1,PAK: CHANNEL 5
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844763
+#EXTINF:-1,PAK CITY 41
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844762
+#EXTINF:-1,PAK: CITY 42
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844761
+#EXTINF:-1,PAK: LAHORE NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844760
+#EXTINF:-1,PAK: NEO NEWS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844759
+#EXTINF:-1,PAK: KOHENOOR
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844758
 
 
 
 
---------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0,AAJ Entertainment
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Aaj-Ent.stream/chunklist_w891006980.m3u8
-#EXTINF:0,APlus
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/APlus.stream/chunklist_w2138034545.m3u8
-#EXTINF:0,ATV
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/ATV.stream/chunklist_w1892544972.m3u8
-#EXTINF:0,ARY Zindagi
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/ARY-Zindagi.stream/chunklist_w739232617.m3u8
-#EXTINF:0,ARY Digital
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Ary-digital.stream/chunklist_w918639832.m3u8
-#EXTINF:0,BOL Entertainment
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/BOL-Entertainment.stream/chunklist_w1749881926.m3u8
-#EXTINF:0,GEO KAHANi
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Geo%20Khani.stream/chunklist_w517357750.m3u8
-#EXTINF:0,GEO Entertainment
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Geo-entertainment.stream/chunklist_w754903379.m3u8
-#EXTINF:0,HUM Masala
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Hum-masala.stream/chunklist_w1553737566.m3u8
-#EXTINF:0,HUM TV
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Hum-tv.stream/chunklist_w1857999860.m3u8
-#EXTINF:0,HUM Sitaray
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Hum-sitaray.stream/chunklist_w94866852.m3u8
-#EXTINF:0,PTV-Home
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/PTV-Home.stream/chunklist_w1701143985.m3u8
-#EXTINF:0,TV-One
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/TV-One.stream/chunklist_w1108054930.m3u8
-#EXTINF:0,Express Entertainment
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Express-entertainment.stream/chunklist_w1029409148.m3u8
-#EXTINF:0,URDU TV
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Urdu-1.stream/chunklist_w927510870.m3u8
-#EXTINF:0,PLAY Entertainment
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Play-Entertainment.stream/chunklist_w783293914.m3u8
-#EXTINF:0,Filmazia
-#EXTGRP:Sport
-http://58.65.194.14:1935/Voice%20Transcode/Aruj.stream_aac/chunklist_w996046403.m3u8
-
-----------------------------
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="",Zee Bioskop (360p)
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 group-title="UK_Ingiltere",SONY TV
-http://45.153.35.204:8000/play/a0bi/index.m3u8
-#EXTINF:-1 group-title="UK_Ingiltere",COLORS
-http://45.153.35.204:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="UK_Ingiltere",ColorsRishtey
-http://45.153.35.204:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Hgl0JGO.png" user-agent="stream" group-title="",Star Plus HD (720p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=stream
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="AndTVHD.in" tvg-country="SAS" tvg-language="Pashto" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Movies",&TV HD (720p) [Geo-blocked]
-https://sneh-z5api.herokuapp.com/?c=0-9-tvhd_0
-
----------------------------------------------------------------------------------------\\\\\\\\\\\\\\\\\\\\\\\\\\
+--------------------------------------***Cartoon***--------------------------------------------------------------------------
+#EXTINF:-1,HINDI Cartoon Network
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845288
+#EXTINF:-1,HINDI Sonic Nickelodeon
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845287
+#EXTINF:-1,HINDI Nick Jr
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845286
+#EXTINF:-1,HINDI Nick
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845285
+#EXTINF:-1,HINDI Pogo
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845284
 
 
+--------------------------------------*****Science****-------------------------------------------------------------------------
+#EXTINF:-1,NAT GEO SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844255
+#EXTINF:-1,NAT GEO WILD SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844254
+#EXTINF:-1,NAT GEO HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844233
+#EXTINF:-1,NAT GEO WILD HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844232
+#EXTINF:-1,DISCOVERY TURBO SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844245
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844244
+#EXTINF:-1,DISCOVERY HISTORY SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844243
+#EXTINF:-1,DISCOVERY SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844242
+#EXTINF:-1,DISCOVERY HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844235
+#EXTINF:-1,SKY ONE SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844253
+#EXTINF:-1,SKY HISTORY SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844252
+#EXTINF:-1,SKY HISTORY/H2 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844251
+#EXTINF:-1,CRIME + INV SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844250
+#EXTINF:-1,I.D
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844249
+#EXTINF:-1,DISCOVERY HISTORY :1
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844248
+#EXTINF:-1,DAVE JA VU SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844247
+#EXTINF:-1,FORCES TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844246
+#EXTINF:-1,BEST DIRECT SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844241
+#EXTINF:-1,DISCOVERY TURBO SD*
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844240
+#EXTINF:-1,DISCOVERY SCIENCE SD :1
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844239
+#EXTINF:-1,SONY CRIME SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844238
+#EXTINF:-1,SKY NATURE HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844237
+#EXTINF:-1,CRIME AND INVESTIGATIONS HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844236
+#EXTINF:-1,EDEN HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844234
+#EXTINF:-1,SKY CRIME HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844231
+#EXTINF:-1,SKY DOCUMENTARIES HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844230
+#EXTINF:-1,SKY HISTORY 2 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844229
 
 
-MOVIES
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------'
-#EXTINF:-1 tvg-id="AndPictures.in" tvg-country="SAS" tvg-language="Pashto" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",&Pictures (720p) [Geo-blocked]
-https://sneh-z5api.herokuapp.com/?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="Pashto" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD (720p) [Geo-blocked]
-https://sneh-z5api.herokuapp.com/?c=0-9-privéhd
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Movies",B4U movies (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:-1 tvg-id="B4UPlus.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SsooYqR.png" group-title="Movies",B4U Plus (720p) [Not 24/7]
-http://14.199.164.20:4001/play/a0wi/index.m3u8
-#EXTINF:-1 tvg-id="Bollywood.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Bollywood (480p)
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-country="IN" tvg-language="Bhojpuri" tvg-logo="https://i.imgur.com/ABxIO7r.jpg" group-title="Movies",Bhojpuri Cinema (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-id="BoxCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies",Box Cinema (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0su/index.m3u8
-#EXTINF:-1 tvg-id="ChannelWin.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Channel Win (360p) [Not 24/7]
-https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 tvg-id="Dhinchaak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Movies",Dhinchaak (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:-1 tvg-id="Dhinchaak2.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/AC4ze9o.jpg" group-title="Movies",Dhinchaak 2 (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0tm/index.m3u8
-#EXTINF:-1 tvg-id="MahaMovie.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="Movies",Maha Movie (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2BSvBGG.png" group-title="Movies",Manoranjan Grand (480p) [Not 24/7]
-http://14.199.164.20:4001/play/a0m2/index.m3u8
+-----------------------------***Dramas***--------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Marutam TV
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1 tvg-id="WowCinemaOne.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/s690F67.png" group-title="Movies",Wow Cinema One (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0n3/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-country="IN" tvg-language="Bangla" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gq8mpPvf.png" group-title="Movies",Zee Bollywood (720p) [Geo-blocked]
-https://sneh-z5api.herokuapp.com/?c=0-9-zeeclassic
-#EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-country="IN" tvg-language="Bangla" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gq8mpPvf.png" group-title="Movies",Zee Bollywood (720p) [Geo-blocked]
-https://sneh-z5api.herokuapp.com/?c=0-9-zeeclassic
-#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/YIRC9m5.png" group-title="",Zee Cafe (720p) [Geo-blocked]
-https://sneh-z5api.herokuapp.com/?c=0-9-zeecafehd
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.meo.pt/PublishingImages/canais/zee-cinema.png" group-title="",Zee Cinema (720p) [Geo-blocked]
-https://sneh-z5api.herokuapp.com/?c=0-9-zeecinema
+#EXTINF:-1,PAK: HUM WORLD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844757
+#EXTINF:-1,PAK: HUM STARS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844756
+#EXTINF:-1,PAK: TV ONE
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844755
+#EXTINF:-1,PAK: ARY DIGITAL 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844754
+#EXTINF:-1,PAK: ARY DIGITAL
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844753
+#EXTINF:-1,PAK: ARY ZINDGAI
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844752
+#EXTINF:-1,PAK: ATV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844751
+#EXTINF:-1,PAK: GEO KAHANI
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844750
+#EXTINF:-1,PAK: GEO TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844749
+#EXTINF:-1,PAK: EXPRESS ENTERTAINMENT
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844748
+#EXTINF:-1,PAK: EXPRESS TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844747
+#EXTINF:-1,PAK: HUM MASALA TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844708
+#EXTINF:-1,PAK: PTV WORLD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844707
+#EXTINF:-1,PAK: PTV HOME
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844706
+#EXTINF:-1,PAK: APNA
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844746
+#EXTINF:-1,PAK: SUCH TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844745
+#EXTINF:-1,PAK: A PLUS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844744
+#EXTINF:-1,PAK: BOL ENTERTAINMENT
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844715
+#EXTINF:-1,STAR PLUS HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844477
+#EXTINF:-1,HINDI : ZEE TV HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845864
+#EXTINF:-1,HINDI : STAR PLUS HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845861
+#EXTINF:-1,HINDI : RISHTEY INDIA
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845860
+#EXTINF:-1,HINDI : SONY TV HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845854
+#EXTINF:-1,HINDI Life OK
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845302
+#EXTINF:-1,HINDI : COLORS HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845301
+#EXTINF:-1,SONY TV SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844476
+#EXTINF:-1,SONY TV HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844475
+--------------------------------****Movies***------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="UK_Ingiltere",ColorsCineplex
-http://45.153.35.204:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="UK_Ingiltere",SONY MAX
-http://45.153.35.204:8000/play/a0bz/index.m3u8
-#EXTINF:-1 group-title="UK_Ingiltere",SONY MAX 2
-http://45.153.35.204:8000/play/a0bo/index.m3u8
-#EXTINF:-1 group-title="UK_Ingiltere",SONY SAB
-http://45.153.35.204:8000/play/a0bk/index.m3u8
+#EXTINF:-1,STAR BHARAT
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844471
+#EXTINF:-1,COLORS CINEPLEX
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844461
+#EXTINF:-1,COLORS RISHTEY
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844460
+#EXTINF:-1,HINDI: B4U MOVIE
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845274
+#EXTINF:-1,B4U MOVIES
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844464
+#EXTINF:-1,HINDI :  & PICTURE HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845865
+#EXTINF:-1,HINDI Zee Action
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845283
+#EXTINF:-1,HINDI Rishtey Cineplex
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845282
+#EXTINF:-1,HINDI : STAR GOLD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845281
 
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix (720p) [Geo-blocked]
-https://sneh-z5api.herokuapp.com/?c=0-9-channel_2105335046
+#EXTINF:-1,SONY MAX
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844474
+#EXTINF:-1,SONY MAX 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844473
+#EXTINF:-1,SONY SAB
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844472
+#EXTINF:-1,ZEE TV
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844470
+#EXTINF:-1,ZEE CINEMA HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844469
+#EXTINF:-1,HINDI Zee Cinema
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845275
+#EXTINF:-1,HINDI Zee Classic
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845277
 
+------
+#EXTINF:-1,SKY ACTION SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844280
+#EXTINF:-1,SKY ACTION HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844279
+#EXTINF:-1,SKY THRILLER SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844278
+#EXTINF:-1,SKY THRILLER HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844277
+#EXTINF:-1,SKY SCI-FI HORROR SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844276
+#EXTINF:-1,SKY SCI-FI HORROR HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844275
+#EXTINF:-1,SKY COMEDY SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844274
+#EXTINF:-1,SKY COMEDY HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844273
+#EXTINF:-1,SKY PREMIERE SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844272
+#EXTINF:-1,SKY PREMIERE HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844271
+#EXTINF:-1,SKY HITS SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844270
+#EXTINF:-1,SKY HITS HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844269
+#EXTINF:-1,SKY DRAMA SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844268
+#EXTINF:-1,SKY DRAMA HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844267
+#EXTINF:-1,SKY SELECT HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844266
+#EXTINF:-1,SKY FAMILY SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844265
+#EXTINF:-1,SKY FAMILY HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844264
+#EXTINF:-1,SKY ANIMATION SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844263
+#EXTINF:-1,SKY ANIMATION HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844262
+#EXTINF:-1,Film4 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844261
+#EXTINF:-1,TCM
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844260
+#EXTINF:-1,TCM HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844259
+#EXTINF:-1,HORROR CHANNEL
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844258
+#EXTINF:-1,Turner Classic Movies
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844257
+#EXTINF:-1,SONY MOVIES SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844256
 
------------------------
-
-#EXTINF:0,BRAVO SUB
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Bravo_sub_rung.stream/chunklist_w1171970866.m3u8
-#EXTINF:0,BRAVO Family
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Bravo-Family.stream/chunklist_w328398566.m3u8
-#EXTINF:0,BRAVO Naaya
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Bravo4.stream/chunklist_w1244255380.m3u8
-#EXTINF:0,BRAVO NOW
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Bravo-now.stream/chunklist_w46049395.m3u8
-#EXTINF:0,OSN MOvies
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/HBO-3-HD.stream/chunklist_w1305679753.m3u8
-#EXTINF:0,HBO HD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/MotorvisionHD.stream/chunklist_w95670222.m3u8
-#EXTINF:0,HBO-2 HD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/HBO-2-HD.stream/chunklist_w1020700402.m3u8
-#EXTINF:0,HBO-3
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/AD%20Sports%202%20HD.stream/chunklist_w1311310534.m3u8
-#EXTINF:0,AXN
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/AXN.stream/chunklist_w562117378.m3u8
-#EXTINF:0,AXNspinHD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/AXNspinHD.stream/chunklist_w474625281.m3u8
-#EXTINF:0,MBC-Action
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/MBC-Action-HD.stream/chunklist_w588665064.m3u8
-#EXTINF:0,MBCMax
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/MBCMax.stream/chunklist_w479044617.m3u8
-#EXTINF:0,MBC2HD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/MBC2HD.stream/chunklist_w1891528591.m3u8
-#EXTINF:0,MBC-4
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/MBC-4.stream/chunklist_w1374494275.m3u8
-#EXTINF:0,FOX-HD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/FOX-HD.stream/chunklist_w2059491392.m3u8
-#EXTINF:0,MIX
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Fashion-tv.stream/chunklist_w296774988.m3u8
-#EXTINF:0,Firemovie
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Firemovie.stream/chunklist_w166711032.m3u8
-#EXTINF:0,CBS-europa
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/cbseuropa.stream/chunklist_w1345629095.m3u8
-#EXTINF:0,AMC
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/OSN%20Series%20First%20HD.stream/chunklist_w1421204587.m3u8
-#EXTINF:0,MotorvisionHD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/MotorvisionHD.stream/chunklist_w920830978.m3u8
-#EXTINF:0,WB-Tv
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/tnt.stream/chunklist_w1144889747.m3u8
-#EXTINF:0,Filmworld
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Filmworld.stream/chunklist_w2135203448.m3u8
-#EXTINF:0,Comedy-CentralHD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Comedy-Central-HD.stream/chunklist_w1610410752.m3u8
-#EXTINF:0,Comedy-Central-Family
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Comedy-Central-Family-HD.stream/chunklist_w1771937560.m3u8
-#EXTINF:0,Fox-Comedy-HD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Fox-Comedy-HD.stream/chunklist_w1356595266.m3u8
-#EXTINF:0,bbcfirst
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/bbcfirst.stream/chunklist_w1857396314.m3u8
-
---------------------------------
-#EXTINF:-1,AMC Presents
-https://amc-amcpresents-1.vizio.wurl.com/manifest/1200.m3u8
-#EXTINF:-1,Brat TV
-https://brat-rakuten.amagi.tv/playlist.m3u8?HasBahCa
-#EXTINF:-1,EPG | ION Plus
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8?HasBahCa
-#EXTINF:-1,EPG | Midnight Pulp
-https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?HasBahCa?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-
-#EXTINF:-1 tvg-id="AMCIFCFilmPicks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",AMC IFC Film Picks (1080p)
-https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents (1080p)
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCRush.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",AMC Rush (1080p)
-https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AnAmericanChristmasCarol.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Movies",An American Christmas Carol (720p)
-https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
-#EXTINF:-1 tvg-id="Asylum.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/j98vGQp.jpg" group-title="Movies",Asylum (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ths3dIy.png" group-title="Movies",Bumblebee TV PopCornFlix Action (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1 tvg-id="Charge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="Movies",Charge! (720p)
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-country="US" tvg-language="English;Vietnamese" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" group-title="Movies",Cinemax Asia (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNowMoviesofthe2000s.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df5a93273c1288c732f59" group-title="Entertainment",Local Now Movies of the 2000s (720p)
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNowMoviesofthe2010s.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df6d8ec9c645c921ecaa3" group-title="Entertainment",Local Now Movies of the 2010s (720p)
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNowMoviesofthe2020s.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Local Now Movies of the 2020s (720p)
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere (1080p)
-https://moviesphere-plex.amagi.tv/playlist.m3u8
+  
 
 
 
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
---------------------------------------------------------------------------
 
------------------------------------------------------------------------------------------------------------------------------
-Science
-------------------
-#EXTINF:0,National-Geographic-HD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/National-Geographic-HD.stream/chunklist_w507096390.m3u8
-#EXTINF:0,Nat-Geo Wild
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/chunklist_w774761471.m3u8
-#EXTINF:0,NatGeoPeopleHD
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/chunklist_w359673553.m3u8
-#EXTINF:0,Discovery-ID
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Discovery-ID-HD.stream/chunklist_w1350377227.m3u8
-#EXTINF:0,Discovery-Science
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Discovery-Science-HD.stream/chunklist_w1495870939.m3u8
-#EXTINF:0,Earth
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/chunklist_w306253291.m3u8
-#EXTINF:-1,Crime Time
-https://crimetimebamca-roku.amagi.tv/playlist.m3u8?HasBahCa
+---------------------------------***Sports***--------------------------------------------------------------------------------
+#EXTINF:-1,PAK: PTV SPORTS STREAM 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844739
+#EXTINF:-1,PAK: PTV SPORTS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844738
+#EXTINF:-1,PAK: GEO SUPER
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844740
+#EXTINF:-1,HINDI WILLOW
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845298
+#EXTINF:-1,HINDI TEN SPORTS
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845297
+#EXTINF:-1,HINDI TEN 1
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845296
+#EXTINF:-1,HINDI TEN 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845295
+#EXTINF:-1,HINDI TEN 3
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845294
+#EXTINF:-1,HINDI STAR SPORTS 1
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845293
+#EXTINF:-1,HINDI STAR SPORTS 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845292
+#EXTINF:-1,HINDI STAR SELECT 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845291
+#EXTINF:-1,HINDI STAR SELECT 1
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845290
+#EXTINF:-1,HINDI SONY SIX
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845289
+#EXTINF:-1,USA- BEIN SPORT USA
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845341
+#EXTINF:-1,AUS: BEIN SPORTS 3
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845340
+#EXTINF:-1,AUS: BEIN SPORTS 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845339
+#EXTINF:-1,AUS: BEIN SPORTS 1
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845338
+#EXTINF:-1,EN- Bein Sports:HD13 FULL HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845337
+#EXTINF:-1,beIN SPORTS XTRA
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845336
+#EXTINF:-1,Bein Sports- Premium HD1 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845335
+#EXTINF:-1,Bein Sports- Premium HD2 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845334
+#EXTINF:-1,Bein Sports- HD1 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845333
+#EXTINF:-1,Bein Sports- HD3 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845332
+#EXTINF:-1,Bein Sports- HD4 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845331
+#EXTINF:-1,Bein Sports- HD2 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845330
+#EXTINF:-1,Bein Sports- HD6 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845329
+#EXTINF:-1,Bein Sports- Premium HD3 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845328
+#EXTINF:-1,Bein Sports- HD5 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845327
+#EXTINF:-1,Bein Sports- HD7 EN
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845326
+#EXTINF:-1,EN- beIN-SPORTS 1 EN FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845325
+#EXTINF:-1,EN- beIN-SPORTS 2 EN FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845324
+#EXTINF:-1,EN- beIN-SPORTS 3 EN FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845323
+#EXTINF:-1,||BEIN||  Bein Sports 1 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845322
+#EXTINF:-1,||BEIN||  Bein Sports 2 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845321
+#EXTINF:-1,||BEIN||  Bein Sports 3 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845320
+#EXTINF:-1,||BEIN||  Bein Sports 4 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845319
+#EXTINF:-1,||BEIN||  Bein Sports 5 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845318
+#EXTINF:-1,||BEIN||  Bein Sports 6 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845317
+#EXTINF:-1,||BEIN||  Bein Sports 7 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845316
+#EXTINF:-1,||BEIN|| Bein Sports 8 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845315
+#EXTINF:-1,||BEIN|| Bein Sports 9 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845314
+#EXTINF:-1,||BEIN|| Bein Sports 10 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845313
+#EXTINF:-1,||BEIN|| BeIN Sports 11 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845312
+#EXTINF:-1,||BEIN|| BeIN Sports 12 HEVC 4K
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845311
 
----------------------------------------------------
+#EXTINF:-1,EUROSPORTS 1 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844396
+#EXTINF:-1,EUROSPORTS 1 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844395
+#EXTINF:-1,EUROSPORT 1 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844394
+#EXTINF:-1,EUROSPORTS 2 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844393
+#EXTINF:-1,EUROSPORTS 2 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844392
+#EXTINF:-1,EUROSPORT 2 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844391
+#EXTINF:-1,LFC TV TV HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844390
+#EXTINF:-1,LFC TV FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844389
+#EXTINF:-1,MUTV HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844388
+#EXTINF:-1,MUTV FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844387
+#EXTINF:-1,RACING TV HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844386
+#EXTINF:-1,EIR SPORT 1 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844385
+#EXTINF:-1,EIR SPORT 1 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844384
+#EXTINF:-1,Eir SPORTS 1 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844383
+#EXTINF:-1,WWE NETWORK HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844382
+#EXTINF:-1,FREE SPORTS FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844381
+#EXTINF:-1,BT SPORTS EXTRA 1
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844380
+#EXTINF:-1,BT SPORTS EXTRA 2
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844379
+#EXTINF:-1,BT SPORTS EXTRA 3
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844378
+#EXTINF:-1,BT SPORTS EXTRA 4
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844377
+#EXTINF:-1,BT SPORTS EXTRA 5
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844376
+#EXTINF:-1,BT SPORTS EXTRA 6
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844375
+#EXTINF:-1,WILLIAM HILL
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844374
+#EXTINF:-1,SportyStuff HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844373
+#EXTINF:-1,PDC Darts 2 (Live Events Only)
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844372
+#EXTINF:-1,PDC Darts (Live Events Only)
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844371
+#EXTINF:-1,LIVE 360
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844370
+#EXTINF:-1,WWE FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844369
+#EXTINF:-1,Racing TV FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844368
+#EXTINF:-1,RACING TV SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844367
+#EXTINF:-1,PREMIER SPORT LALIGA TV FHD (D)
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844366
+#EXTINF:-1,SKY SPORTS MAIN EVENT SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844444
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844443
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844442
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844441
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844440
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844439
+#EXTINF:-1,SKY SPORTS FOOTBALL SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844438
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844437
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844436
+#EXTINF:-1,SKY SPORTS GOLF SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844431
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844430
+#EXTINF:-1,SKY SPORTS GOLF FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844429
+#EXTINF:-1,SKY SPORTS NEWS SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844428
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844427
+#EXTINF:-1,SKY SPORTS NEWS FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844426
+#EXTINF:-1,SKY SPORTS F1 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844425
+#EXTINF:-1,SKY SPORTS F1 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844424
+#EXTINF:-1,SKY SPORTS F1 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844423
+#EXTINF:-1,SKY SPORTS ARENA SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844422
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844421
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844420
+#EXTINF:-1,SKY SPORTS ACTION FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844419
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844418
+#EXTINF:-1,SKY SPORTS MIX HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844417
+#EXTINF:-1,SKY SPORTS MIX FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844416
+#EXTINF:-1,SKY SPORTS NFL SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844415
+#EXTINF:-1,SKY SPORTS RACING HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844414
+#EXTINF:-1,SKY SPORTS RACING FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844413
+#EXTINF:-1,BT SPORTS 1 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844412
+#EXTINF:-1,BT SPORTS 1 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844411
+#EXTINF:-1,BT SPORTS 1 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844410
+#EXTINF:-1,BT SPORTS 2 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844409
+#EXTINF:-1,BT SPORTS 2 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844408
+#EXTINF:-1,BT SPORTS 2 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844407
+#EXTINF:-1,BT SPORTS 3 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844406
+#EXTINF:-1,BT SPORTS 3 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844405
+#EXTINF:-1,BT SPORTS 3 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844404
+#EXTINF:-1,BT SPORTS ESPN FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844403
+#EXTINF:-1,BT SPORTS ESPN HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844402
+#EXTINF:-1,PREMIER SPORT 1 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844401
+#EXTINF:-1,PREMIER SPORT 2 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844400
+#EXTINF:-1,BOX NATION FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844399
+#EXTINF:-1,BOX NATION HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844398
+#EXTINF:-1,BOX NATION SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844397
+#EXTINF:-1,EUROSPORTS 1 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844396
+#EXTINF:-1,EUROSPORTS 1 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844395
+#EXTINF:-1,EUROSPORT 1 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844394
+#EXTINF:-1,EUROSPORTS 2 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844393
+#EXTINF:-1,EUROSPORTS 2 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844392
+#EXTINF:-1,EUROSPORT 2 SD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/844391
+#EXTINF:-1,Astro Bein Sports Max HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845621
+#EXTINF:-1,Astro Bein Sports HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845620
+#EXTINF:-1,Astro 2 Arena HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845619
+#EXTINF:-1,Astro Arena HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845618
+#EXTINF:-1,Astro Super Sport 5 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845617
+#EXTINF:-1,Astro Super Sport 4 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845616
+#EXTINF:-1,Astro Super Sport 3 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845615
+#EXTINF:-1,Astro Super Sport 2 HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845614
+#EXTINF:-1,Astro Super Sport HD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845613
+#EXTINF:-1,Astro eGG Network
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845612
+#EXTINF:-1,Astro Eurosports
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845611
+#EXTINF:-1,EFL CHAMP 1:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845600
+#EXTINF:-1,EFL CHAMP 2:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845599
+#EXTINF:-1,EFL CHAMP 3:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845598
+#EXTINF:-1,EFL CHAMP 4:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845597
+#EXTINF:-1,EFL CHAMP 5:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845596
+#EXTINF:-1,EFL CHAMP 6:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845595
+#EXTINF:-1,EFL CHAMP 7:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845594
+#EXTINF:-1,EFL CHAMP 8:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845593
+#EXTINF:-1,EFL CHAMP 9:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845592
+#EXTINF:-1,EFL CHAMP 10:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845591
+#EXTINF:-1,EFL CHAMP 11:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845590
+#EXTINF:-1,EFL CHAMP 12:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845589
+#EXTINF:-1,EFL L2 1:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845588
+#EXTINF:-1,EFL L2 2:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845587
+#EXTINF:-1,EFL L2 3:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845586
+#EXTINF:-1,EFL L2 4:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845585
+#EXTINF:-1,EFL L2 5:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845584
+#EXTINF:-1,EFL L2 6:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845583
+#EXTINF:-1,EFL L2 7:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845582
+#EXTINF:-1,EFL L2 8:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845581
+#EXTINF:-1,EFL L2 9:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845580
+#EXTINF:-1,EFL L2 10:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845579
+#EXTINF:-1,EFL L2 11:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845578
+#EXTINF:-1,EFL L2 12:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845577
+#EXTINF:-1,EFL L1 1:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845576
+#EXTINF:-1,EFL L1 2:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845575
+#EXTINF:-1,EFL L1 3:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845574
+#EXTINF:-1,EFL L1 4:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845573
+#EXTINF:-1,EFL L1 5:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845572
+#EXTINF:-1,EFL L1 6:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845571
+#EXTINF:-1,EFL L1 7:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845570
+#EXTINF:-1,EFL L1 8:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845569
+#EXTINF:-1,EFL L1 9:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845568
+#EXTINF:-1,EFL L1 10:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845567
+#EXTINF:-1,EFL L1 11:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845566
+#EXTINF:-1,EFL L1 12:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845565
+#EXTINF:-1,EPL 1:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845564
+#EXTINF:-1,EPL 2:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845563
+#EXTINF:-1,EPL 3:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845562
+#EXTINF:-1,EPL 4:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845561
+#EXTINF:-1,EPL 5 :
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845560
+#EXTINF:-1,EPL 6 :
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845559
+#EXTINF:-1,EPL 7 :
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845558
+#EXTINF:-1,EPL 8 :
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845557
+#EXTINF:-1,EPL 9:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845556
+#EXTINF:-1,EPL 10:
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845555
+#EXTINF:-1,ZA: SUPERSPORT  Grandstand FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845354
+#EXTINF:-1,ZA: SUPERSPORT  PSL FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845353
+#EXTINF:-1,ZA: SUPERSPORT  Premier League FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845352
+#EXTINF:-1,ZA: SUPERSPORT  La liga FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845351
+#EXTINF:-1,ZA: SUPERSPORT  Football  FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845350
+#EXTINF:-1,ZA: SUPERSPORT  Variety 1 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845349
+#EXTINF:-1,ZA: SUPERSPORT  Variety 2 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845348
+#EXTINF:-1,ZA: SUPERSPORT  Blitz FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845347
+#EXTINF:-1,ZA: SUPERSPORT  Variety 4 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845346
+#EXTINF:-1,ZA: SUPERSPORT Variety 3 FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845345
+#EXTINF:-1,ZA: SUPERSPORT Cricket FHD
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845344
+#EXTINF:-1,ZA: SUPERSPORT Action
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845343
+#EXTINF:-1,ZA: SUPERSPORT Rugby
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845342
 
 
-MUSIC
-------------
 
-#EXTINF:0,ARY MUSIC
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/ARY-Musik.stream/chunklist_w1362984699.m3u8
-#EXTINF:0,JALWA
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/jalwa.stream/chunklist_w1959935995.m3u8
-#EXTINF:0,Oxygen
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/Oxygene-TV.stream/chunklist_w875686202.m3u8
-#EXTINF:0,8XM
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/8XM-HD.stream/chunklist_w408181888.m3u8
------------------------
-#EXTINF:-1 tvg-id="DumTVKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://i.imgur.com/e43ysdo.png" group-title="Entertainment",Dum TV Kannada (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0sq/index.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-id="DilSe.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Dil Se (1080p) [Not 24/7]
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6h83JRO.png" group-title="Music",9X Jalwa (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0nc/index.m3u8
-#EXTINF:-1 tvg-id="KadakHits.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Kadak Hits (1080p) [Not 24/7]
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
----------------------------
-#EXTINF:0,TraceUrban
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/TraceUrban.stream/chunklist_w396716120.m3u8
-#EXTINF:0,MTV-Live
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/MTV-Live-HD.stream/chunklist_w499409344.m3u8
-#EXTINF:0,VH1
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/VH1.stream/chunklist_w1450028746.m3u8
-#EXTINF:0,Nick Music
-#EXTGRP:Sport
-http://58.65.194.14:1935/live/TraceUrban.stream/chunklist_w1180476144.m3u8
+-----------------------------****music***----------------------------------------------------------------------
+
+#EXTINF:-1,HINDI B4U Music
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845262
+#EXTINF:-1,HINDI 9x Music
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845261
+#EXTINF:-1,HINDI 9x Jhakaas
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845260
+#EXTINF:-1,HINDI 9x Jalwa [Stream 2]
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845259
+#EXTINF:-1,HINDI 9x Jalwa
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845258
+
 ----------------------------------------------\\\\\\\\\\\\\\\\\\\\
 
 #EXTINF:-1,Fashion TV
