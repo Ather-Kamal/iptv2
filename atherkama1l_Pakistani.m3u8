@@ -19,8 +19,6 @@ http://iptv.funtime.net.pk:9981/stream/channelid/135135738?ticket=539A26E2B3E50A
 
 
 ------------------------------------------------
-#EXTINF:-1,92 NEWS
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573240
 #EXTINF:0,PAK: NEWS 92
 #EXTGRP:unsorted
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/72
@@ -350,6 +348,7 @@ http://iptv.funtime.net.pk:9981/stream/channelid/1795253444?ticket=A86AD3AE1566D
 http://iptv.funtime.net.pk:9981/stream/channelid/795330367?ticket=AD8CEA3BB711C83126451097C8F230DB65BB38F8&amp;profile=pass
 #EXTINF:-1,IND. ZEE CAFE HD 
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/19
+
 #EXTINF:-1,Sky Cinema Action
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/572532
 #EXTINF:-1,Sky Cinema Animation
@@ -372,10 +371,6 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/572523
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/572522
 #EXTINF:-1,SKY CINEMA THRILLER
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/572521
-#EXTINF:-1,FILM 4
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/572520
-#EXTINF:-1,TCM
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/572518
 #EXTINF:-1,Sky Store 1
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/572517
 #EXTINF:-1,Sky Store 2
@@ -390,32 +385,7 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/572513
 
 
 -------------------------------------------
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571917
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571916
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571915
-#EXTINF:-1,ESPN 1 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571914
-#EXTINF:-1,ESPN 2 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571913
-#EXTINF:-1,FOX SPORTS 501 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571912
-#EXTINF:-1,FOX SPORTS 502 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571911
-#EXTINF:-1,FOX SPORTS 503 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571910
-#EXTINF:-1,FOX SPORTS 504 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571909
-#EXTINF:-1,FOX SPORTS 505 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571908
-#EXTINF:-1,FOX SPORTS 506 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571907
-#EXTINF:-1,FOX SPORTS 507 HD
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571906
-#EXTINF:-1,FOX SPORTS NEWS
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571905
+
 
 --------------------------------
 #EXTINF:0,8XM
