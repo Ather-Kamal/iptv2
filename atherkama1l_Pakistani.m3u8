@@ -116,25 +116,15 @@ http://iptv.funtime.net.pk:9981/stream/channelid/945449021?ticket=EF9AB49A3372FE
 http://iptv.funtime.net.pk:9981/stream/channelid/607857650?ticket=EBAB8CD07AAADB5F4691693C686D5857B30ECB9C&amp;profile=pass
 #EXTINF:-1,IND. STAR SPORTS 1 HD
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/265
-
-#EXTINF:-1,STAR SPORTS SELECT-1
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573202
-#EXTINF:-1,START SPORTS SELECT-2
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573201
-#EXTINF:-1,STAR SPORTS 1
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573200
-#EXTINF:-1,STAR SPORTS 2
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573199
+#EXTINF:-1,IND. STAR SPORTS SELECT 1 HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/49
+#EXTINF:-1,IND. STAR SPORTS SELECT 2 HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/50
 #EXTINF:-1,IND. SONY TEN 1 HD 
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/13
 #EXTINF:-1,IND. SONY TEN 2 HD
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
-#EXTINF:-1,TEN-1
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573198
-#EXTINF:-1,TEN-2
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573197
-#EXTINF:-1,TEN-3
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573196
+
 
 ===========================================================================
 #EXTINF:0,APNA
@@ -234,6 +224,12 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/573191
 
 
 --------
+#EXTINF:0,Raavi
+#EXTGRP:unsorted
+http://iptv.funtime.net.pk:9981/stream/channelid/1474957440?ticket=C55D4D6AE10B782F0281112B1AFBCB85FFCC5C8C&profile=pass
+#EXTINF:0,UG Premiere HD
+#EXTGRP:unsorted
+http://iptv.funtime.net.pk:9981/stream/channelid/1420119648?ticket=9715B25A36463B651A1C1B189B4343A478D93F91&profile=pass
 #EXTINF:0,FILM WORLD
 #EXTGRP:unsorted
 http://iptv.funtime.net.pk:9981/stream/channelid/26292100?ticket=72BC2A9AA560078990741989861D49A0F63F6012&amp;profile=pass
@@ -243,9 +239,7 @@ http://iptv.funtime.net.pk:9981/stream/channelid/1630415075?ticket=B7EF4CDD40B41
 #EXTINF:0,Filmax
 #EXTGRP:unsorted
 http://iptv.funtime.net.pk:9981/stream/channelid/1396520072?ticket=7D12A029B3CEC219E2161BFDF563F13880C85138&amp;profile=pass
-#EXTINF:0,UG Premiere HD
-#EXTGRP:unsorted
-http://iptv.funtime.net.pk:9981/stream/channelid/1420119648?ticket=9715B25A36463B651A1C1B189B4343A478D93F91&profile=pass
+
 #EXTINF:0,DMG CINEMA HD
 #EXTGRP:unsorted
 http://iptv.funtime.net.pk:9981/stream/channelid/1703362109?ticket=29B3DFEC2B572B0905D30BC988FF4A3316C2CB24&profile=pass
@@ -256,12 +250,10 @@ http://iptv.funtime.net.pk:9981/stream/channelid/687393205?ticket=2A9BF588565F0C
 #EXTGRP:unsorted
 http://iptv.funtime.net.pk:9981/stream/channelid/273919062?ticket=08BCCC1F0E9390354174DF78DE57443B5B43F5A0&amp;profile=pass
 
-
-
-
-#EXTINF:0,Raavi
-#EXTGRP:unsorted
-http://iptv.funtime.net.pk:9981/stream/channelid/1474957440?ticket=C55D4D6AE10B782F0281112B1AFBCB85FFCC5C8C&profile=pass
+#EXTINF:-1,IND. STAR MOVIES HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/30
+#EXTINF:-1,IND. STAR WORLD PREMIERE HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/37
 #EXTINF:0,UG Hollywood HD
 #EXTGRP:unsorted
 http://iptv.funtime.net.pk:9981/stream/channelid/96017325?ticket=9C2A4F193065DFAE57C64813E3409A14671EFA4B&profile=pass
@@ -331,10 +323,10 @@ http://iptv.funtime.net.pk:9981/stream/channelid/1795253444?ticket=A86AD3AE1566D
 http://iptv.funtime.net.pk:9981/stream/channelid/795330367?ticket=AD8CEA3BB711C83126451097C8F230DB65BB38F8&amp;profile=pass
 #EXTINF:-1,IND. ZEE CAFE HD 
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/19
-#EXTINF:-1,IND. STAR MOVIES HD 
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/30
-#EXTINF:-1,IND. STAR WORLD PREMIERE HD
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/37
+
+#EXTINF:-1,IND. & FLIX HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/29
+
 ----|
 #EXTINF:-1,&FLIX
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/1092710
